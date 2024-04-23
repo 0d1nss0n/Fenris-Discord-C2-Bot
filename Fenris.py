@@ -17,7 +17,7 @@ import platform
 TOKEN = ''
 GUILD_ID = SERVER_ID_HERE
 
-IMAGE_URL = ''
+IMAGE_URL = 'https://github.com/0d1nss0n/Fenris-Discord-C2-Server/blob/main/img/Fenris.png'
 
 intents = discord.Intents.default()
 intents.messages = True
