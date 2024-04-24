@@ -20,16 +20,19 @@ Before running Fenris, ensure you have the following prerequisites installed:
 ## Installation
 
 1. Clone or download the Fenris repository.
-2. Navigate to the project directory.
-3. Install the required dependencies using pip:
 
+2. Navigate to the project directory.
+
+3. Install the required dependencies using pip:
 
 pip install -r requirements.txt
 
 ## Configuration
 
 1.Replace the TOKEN variable in fenris.py with your Discord bot token.
+
 2.Set the GUILD_ID variable to your Discord server ID.
+
 3.Customize other settings as per your requirements.
 
 ## Usage
