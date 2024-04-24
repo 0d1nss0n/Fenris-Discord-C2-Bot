@@ -41,7 +41,7 @@ To start Fenris, run the following command:
 
 python3 fenris.py
 
-Once the bot is running, you can interact with it using Discord commands.
+Once the bot is running, you can interact with it using Discord commands from within a text channel it creates.
 
 ## Commands
 
